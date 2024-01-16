@@ -1,0 +1,9 @@
+boot
+boot.o
+head
+head.o
+bochsout.txt
+Image.img
+Image
+Image.a.img
+Image.b.img
